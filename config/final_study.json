@@ -1,0 +1,8 @@
+{
+  "version":"2026.09.24",
+  "pooling_seed":202609075,
+  "graded_departure_seed":202609081,
+  "repeated_reference":{"base_seed":202609240,"q":0.2,"pilot_masks":[0,9],"final_masks":[10,29],"responses":[1.0,1.25,1.5,2.0]},
+  "public_data":{"mouse_dataset":"DANDI:000774 version 0.260520.1753","organoid_license":"CC0"},
+  "private_data":"FinalSpark raw exports are external and are not included or redistributed."
+}

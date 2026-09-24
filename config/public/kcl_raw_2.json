@@ -1,0 +1,124 @@
+{
+  "doi": "10.18742/28669838.v1",
+  "url_public_html": "https://kcl.figshare.com/articles/dataset/Electrophysiological_development_and_functional_plasticity_in_dissociated_human_cerebral_organoids_across_multiple_cell_lines_-_Raw_MEA_data_2_of_4_/28669838",
+  "published_date": "2025-11-25T16:39:59Z",
+  "authors": [
+    {
+      "id": 20917388,
+      "full_name": "Adam Pavlinek",
+      "first_name": "Adam",
+      "last_name": "Pavlinek",
+      "is_active": true,
+      "url_name": "Adam_Pavlinek",
+      "orcid_id": "0000-0002-0138-8321"
+    },
+    {
+      "id": 22276579,
+      "full_name": "Sara Guerrisi",
+      "first_name": "Sara",
+      "last_name": "Guerrisi",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 22276587,
+      "full_name": "Kara O'Driscoll",
+      "first_name": "Kara",
+      "last_name": "O'Driscoll",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 17179224,
+      "full_name": "Deepak Srivastava",
+      "first_name": "Deepak",
+      "last_name": "Srivastava",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 5556476,
+      "full_name": "Lucia Dutan Polit",
+      "first_name": "Lucia Dutan",
+      "last_name": "Polit",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 14184062,
+      "full_name": "Anthony C Vernon",
+      "first_name": "Anthony C",
+      "last_name": "Vernon",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0001-7305-1069"
+    },
+    {
+      "id": 6489917,
+      "full_name": "Roland Nagy",
+      "first_name": "Roland",
+      "last_name": "Nagy",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 11284485,
+      "full_name": "Madeline A Lancaster",
+      "first_name": "Madeline A",
+      "last_name": "Lancaster",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "title": "Electrophysiological development and functional plasticity in dissociated human cerebral organoids across multiple cell lines - Raw MEA data (2 of 4)",
+  "license": {
+    "value": 2,
+    "name": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "version": 1,
+  "files": [
+    {
+      "name": "AP2_47plusDIV15.raw",
+      "size": 2880009196,
+      "download_url": "https://ndownloader.figshare.com/files/53248230",
+      "computed_md5": "f6227f975420f9eb55b740de0ada9d50"
+    },
+    {
+      "name": "AP2_47plusDIV37.raw",
+      "size": 2880009368,
+      "download_url": "https://ndownloader.figshare.com/files/53248374",
+      "computed_md5": "8614d6bf91a56b69a2bc121a6fd81546"
+    },
+    {
+      "name": "AP3_47plusDIV15.raw",
+      "size": 2880009225,
+      "download_url": "https://ndownloader.figshare.com/files/53248412",
+      "computed_md5": "7c2f6cdd1115b3353171d0bf15102083"
+    },
+    {
+      "name": "AP3_47plusDIV37.raw",
+      "size": 2880009426,
+      "download_url": "https://ndownloader.figshare.com/files/53248419",
+      "computed_md5": "54b0423104ecdda72844074e82ff235f"
+    },
+    {
+      "name": "AP4_45plusDIV15.raw",
+      "size": 2880009178,
+      "download_url": "https://ndownloader.figshare.com/files/53248521",
+      "computed_md5": "ed39c1d193de0b3f520b781f3d811305"
+    },
+    {
+      "name": "AP4_45plusDIV37.raw",
+      "size": 2880009373,
+      "download_url": "https://ndownloader.figshare.com/files/53248530",
+      "computed_md5": "64644f769250b96e5346a246b6f04bb1"
+    }
+  ]
+}

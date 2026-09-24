@@ -1,0 +1,16 @@
+{
+  "trigger_selection": {
+    "trigger_merge_ms": 1.0,
+    "previous_trigger_gap_s": 2.0,
+    "next_trigger_gap_s": 0.5
+  },
+  "waveform": {
+    "raw_block_rows": 200000,
+    "window_left_ms": -1005,
+    "window_right_ms": 305,
+    "raw_match_tolerance_us": 100,
+    "run_gap_us": 50,
+    "run_max_uv": 300,
+    "conservative_min_peak_uv": 30
+  }
+}
